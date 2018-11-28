@@ -1,0 +1,9 @@
+diff a/Form1.Designer.cs b/Form1.Designer.cs	(rejected hunks)
+@@ -29,6 +29,7 @@
+         private void InitializeComponent()
+         {
+             this.button1 = new System.Windows.Forms.Button();
++            this.button2 = new System.Windows.Forms.Button();
+             this.SuspendLayout();
+             // 
+             // button1

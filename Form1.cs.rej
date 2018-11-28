@@ -1,0 +1,12 @@
+diff a/Form1.cs b/Form1.cs	(rejected hunks)
+@@ -16,5 +16,10 @@
+         {
+             InitializeComponent();
+         }
++
++        private void button1_Click(object sender, EventArgs e)
++        {
++            MessageBox.Show("Test");
++        }
+     }
+ }
