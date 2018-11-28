@@ -39,5 +39,11 @@ namespace GitTest1
             label1.Text = "체크박스";
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Student std = new Student();
+            std.Show();
+        }
     }
 }
