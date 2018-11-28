@@ -24,6 +24,7 @@ namespace GitTest1
 
         private void button2_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
 
             MessageBox.Show("Test");
 
@@ -44,6 +45,9 @@ namespace GitTest1
         {
             Student std = new Student();
             std.Show();
+=======
+            MessageBox.Show("Test");
+>>>>>>> 1eb10e8a8b6f2010bd460b965e99df6859509b6a
         }
     }
 }
