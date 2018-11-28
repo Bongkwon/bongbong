@@ -30,5 +30,10 @@ namespace GitTest1
             label1.Text = "Test";
 
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            label1.Text = "체크박스";
+        }
     }
 }
