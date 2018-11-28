@@ -33,11 +33,11 @@ namespace GitTest1
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-<<<<<<< HEAD
+
             label1.Text = "test";
-=======
+
             label1.Text = "체크박스";
->>>>>>> check
+
         }
     }
 }
